@@ -13,6 +13,7 @@ export default {
 
 <template>
   <button @click="count++">Count is: {{ count }}</button>
+  <h2>Lorem, ipsum dolor.</h2>
 </template>
 
 <style scoped>
